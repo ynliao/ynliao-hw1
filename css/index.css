@@ -1,0 +1,17 @@
+.jumbotron {
+    /* 設定背景顏色 */
+    background-color: #ffc78e;
+    /* 設定文字顏色 */
+    color: white;
+}
+
+div.item {
+    margin-top: 13px;
+    margin-bottom: 13px;
+    margin-left: 13px;
+    margin-right: 13px;
+    background-color: rgb(184, 184, 220);
+    padding: 7px;
+    text-align: center;
+    border-radius: 10px;
+}
